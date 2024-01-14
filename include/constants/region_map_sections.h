@@ -253,7 +253,11 @@
 #define MAPSEC_DRAGONS_DEN                  0xF5
 #define MAPSEC_TOHJO_FALLS                  0xF6
 #define MAPSEC_MT_SILVER                    0xF7
-#define MAPSEC_NONE                         0xF8
+#define MAPSEC_YAM_HILLS                    0xF8
+#define MAPSEC_SCHOOL_ROUTE                 0xF9
+#define MAPSEC_BLOOMFIELD                   0xFA
+#define MAPSEC_NONE                         0xFB
+
 
 #define METLOC_SPECIAL_EGG                  0xFD
 #define METLOC_IN_GAME_TRADE                0xFE

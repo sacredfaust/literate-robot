@@ -10604,8 +10604,8 @@
     {
       "id": "LAYOUT_YAM_HILLS",
       "name": "YamHills_Layout",
-      "width": 32,
-      "height": 22,
+      "width": 26,
+      "height": 21,
       "primary_tileset": "gTileset_JohtoGeneral",
       "secondary_tileset": "gTileset_AzaleaTown",
       "border_filepath": "data/layouts/YamHills/border.bin",

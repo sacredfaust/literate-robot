@@ -1672,3 +1672,5 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/text/birch_speech.inc"
 
 	.include "data/maps/YamHills/scripts.inc"
+
+	.include "data/maps/SchoolRoute/scripts.inc"

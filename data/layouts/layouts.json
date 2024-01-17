@@ -10610,6 +10610,16 @@
       "secondary_tileset": "gTileset_AzaleaTown",
       "border_filepath": "data/layouts/YamHills/border.bin",
       "blockdata_filepath": "data/layouts/YamHills/map.bin"
+    },
+    {
+      "id": "LAYOUT_SCHOOL_ROUTE",
+      "name": "SchoolRoute_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_JohtoGeneral",
+      "secondary_tileset": "gTileset_AzaleaTown",
+      "border_filepath": "data/layouts/SchoolRoute/border.bin",
+      "blockdata_filepath": "data/layouts/SchoolRoute/map.bin"
     }
   ]
 }

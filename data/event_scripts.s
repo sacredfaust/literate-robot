@@ -1674,3 +1674,7 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/YamHills/scripts.inc"
 
 	.include "data/maps/SchoolRoute/scripts.inc"
+
+	.include "data/maps/YamHillsEast/scripts.inc"
+
+	.include "data/maps/Bloomfield/scripts.inc"

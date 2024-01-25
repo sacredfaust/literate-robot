@@ -10604,7 +10604,7 @@
     {
       "id": "LAYOUT_YAM_HILLS",
       "name": "YamHills_Layout",
-      "width": 26,
+      "width": 28,
       "height": 21,
       "primary_tileset": "gTileset_JohtoGeneral",
       "secondary_tileset": "gTileset_AzaleaTown",
@@ -10620,6 +10620,26 @@
       "secondary_tileset": "gTileset_AzaleaTown",
       "border_filepath": "data/layouts/SchoolRoute/border.bin",
       "blockdata_filepath": "data/layouts/SchoolRoute/map.bin"
+    },
+    {
+      "id": "LAYOUT_YAM_HILLS_EAST",
+      "name": "YamHillsEast_Layout",
+      "width": 24,
+      "height": 21,
+      "primary_tileset": "gTileset_JohtoGeneral",
+      "secondary_tileset": "gTileset_AzaleaTown",
+      "border_filepath": "data/layouts/YamHillsEast/border.bin",
+      "blockdata_filepath": "data/layouts/YamHillsEast/map.bin"
+    },
+    {
+      "id": "LAYOUT_BLOOMFIELD",
+      "name": "Bloomfield_Layout",
+      "width": 48,
+      "height": 40,
+      "primary_tileset": "gTileset_JohtoGeneral",
+      "secondary_tileset": "gTileset_VioletCity",
+      "border_filepath": "data/layouts/Bloomfield/border.bin",
+      "blockdata_filepath": "data/layouts/Bloomfield/map.bin"
     }
   ]
 }

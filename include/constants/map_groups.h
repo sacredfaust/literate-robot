@@ -65,6 +65,8 @@
 #define MAP_UNDERWATER_ROUTE125 (56 | (0 << 8))
 #define MAP_YAM_HILLS           (57 | (0 << 8))
 #define MAP_SCHOOL_ROUTE        (58 | (0 << 8))
+#define MAP_YAM_HILLS_EAST      (59 | (0 << 8))
+#define MAP_BLOOMFIELD          (60 | (0 << 8))
 
 // gMapGroup_IndoorLittleroot
 #define MAP_LITTLEROOT_TOWN_BRENDANS_HOUSE_1F    (0 | (1 << 8))

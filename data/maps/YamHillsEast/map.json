@@ -17,6 +17,11 @@
       "map": "MAP_YAM_HILLS",
       "offset": 0,
       "direction": "left"
+    },
+    {
+      "map": "MAP_YAM_HILLS",
+      "offset": 0,
+      "direction": "left"
     }
   ],
   "object_events": [
